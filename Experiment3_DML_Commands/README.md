@@ -227,4 +227,4 @@ COMMIT;
 
 
 ## RESULT
-Thus, the SQL queri
+Thus, the SQL queries to implement DML commands have been executed successfully.
